@@ -1,0 +1,15 @@
+{
+  "cs.AI": "Artificial Intelligence",
+  "cs.IR": "Information Retrieval",
+  "cs.RO": "Robotics",
+  "cs.LG": "Machine Learning",
+  "cs.CL": "Computation and Language (Natural Language Processing)",
+  "cs.NE": "Neural and Evolutionary Computing",
+  "cs.CV": "Computer Vision and Pattern Recognition",
+  "cs.HC": "Human-Computer Interaction",
+  "cs.CR": "Cryptography and Security",
+  "cs.SE": "Software Engineering",
+  "cs.CY": "Computers and Society",
+  "stat.ML": "Machine Learning (Statistics)",
+  "eess.IV": "Image and Video Processing"
+}

@@ -1,0 +1,13 @@
+# scikit-learn, numpy and scipy are pinned so the saved model loads identically everywhere
+scikit-learn==1.9.1
+numpy==2.5.3
+scipy==1.18.1
+pandas>=3.0
+pyarrow
+nltk>=3.9
+joblib
+fastapi
+uvicorn
+streamlit>=1.45
+altair
+requests

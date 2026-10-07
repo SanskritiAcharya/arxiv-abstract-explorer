@@ -1,0 +1,3042 @@
+{
+  "category_counts": {
+    "cs.LG": 80400,
+    "cs.CV": 71082,
+    "cs.CL": 37244,
+    "cs.AI": 28688,
+    "stat.ML": 13882,
+    "cs.NE": 6709,
+    "cs.RO": 5254,
+    "cs.CR": 4375,
+    "eess.IV": 2771,
+    "cs.IR": 2712,
+    "cs.SE": 2575,
+    "cs.CY": 2293,
+    "cs.HC": 2184
+  },
+  "papers_per_year": [
+    {
+      "year": 1993,
+      "category_code": "cs.AI",
+      "papers": 6
+    },
+    {
+      "year": 1994,
+      "category_code": "cs.AI",
+      "papers": 14
+    },
+    {
+      "year": 1995,
+      "category_code": "cs.AI",
+      "papers": 27
+    },
+    {
+      "year": 1996,
+      "category_code": "cs.AI",
+      "papers": 27
+    },
+    {
+      "year": 1997,
+      "category_code": "cs.AI",
+      "papers": 19
+    },
+    {
+      "year": 1998,
+      "category_code": "cs.AI",
+      "papers": 18
+    },
+    {
+      "year": 1998,
+      "category_code": "cs.CL",
+      "papers": 22
+    },
+    {
+      "year": 1998,
+      "category_code": "cs.CV",
+      "papers": 2
+    },
+    {
+      "year": 1998,
+      "category_code": "cs.IR",
+      "papers": 1
+    },
+    {
+      "year": 1998,
+      "category_code": "cs.NE",
+      "papers": 10
+    },
+    {
+      "year": 1998,
+      "category_code": "cs.RO",
+      "papers": 1
+    },
+    {
+      "year": 1999,
+      "category_code": "cs.AI",
+      "papers": 9
+    },
+    {
+      "year": 1999,
+      "category_code": "cs.CL",
+      "papers": 44
+    },
+    {
+      "year": 1999,
+      "category_code": "cs.CV",
+      "papers": 1
+    },
+    {
+      "year": 1999,
+      "category_code": "cs.IR",
+      "papers": 1
+    },
+    {
+      "year": 1999,
+      "category_code": "cs.LG",
+      "papers": 4
+    },
+    {
+      "year": 1999,
+      "category_code": "cs.NE",
+      "papers": 3
+    },
+    {
+      "year": 2000,
+      "category_code": "cs.AI",
+      "papers": 67
+    },
+    {
+      "year": 2000,
+      "category_code": "cs.CL",
+      "papers": 99
+    },
+    {
+      "year": 2000,
+      "category_code": "cs.CV",
+      "papers": 8
+    },
+    {
+      "year": 2000,
+      "category_code": "cs.LG",
+      "papers": 7
+    },
+    {
+      "year": 2000,
+      "category_code": "cs.NE",
+      "papers": 3
+    },
+    {
+      "year": 2000,
+      "category_code": "cs.RO",
+      "papers": 2
+    },
+    {
+      "year": 2001,
+      "category_code": "cs.AI",
+      "papers": 23
+    },
+    {
+      "year": 2001,
+      "category_code": "cs.CL",
+      "papers": 57
+    },
+    {
+      "year": 2001,
+      "category_code": "cs.LG",
+      "papers": 2
+    },
+    {
+      "year": 2001,
+      "category_code": "cs.NE",
+      "papers": 4
+    },
+    {
+      "year": 2002,
+      "category_code": "cs.AI",
+      "papers": 67
+    },
+    {
+      "year": 2002,
+      "category_code": "cs.CL",
+      "papers": 39
+    },
+    {
+      "year": 2002,
+      "category_code": "cs.CR",
+      "papers": 1
+    },
+    {
+      "year": 2002,
+      "category_code": "cs.CV",
+      "papers": 2
+    },
+    {
+      "year": 2002,
+      "category_code": "cs.HC",
+      "papers": 1
+    },
+    {
+      "year": 2002,
+      "category_code": "cs.IR",
+      "papers": 1
+    },
+    {
+      "year": 2002,
+      "category_code": "cs.LG",
+      "papers": 6
+    },
+    {
+      "year": 2002,
+      "category_code": "cs.NE",
+      "papers": 7
+    },
+    {
+      "year": 2002,
+      "category_code": "cs.RO",
+      "papers": 1
+    },
+    {
+      "year": 2003,
+      "category_code": "cs.AI",
+      "papers": 75
+    },
+    {
+      "year": 2003,
+      "category_code": "cs.CL",
+      "papers": 32
+    },
+    {
+      "year": 2003,
+      "category_code": "cs.CV",
+      "papers": 10
+    },
+    {
+      "year": 2003,
+      "category_code": "cs.LG",
+      "papers": 5
+    },
+    {
+      "year": 2003,
+      "category_code": "cs.NE",
+      "papers": 10
+    },
+    {
+      "year": 2003,
+      "category_code": "cs.SE",
+      "papers": 1
+    },
+    {
+      "year": 2004,
+      "category_code": "cs.AI",
+      "papers": 62
+    },
+    {
+      "year": 2004,
+      "category_code": "cs.CL",
+      "papers": 24
+    },
+    {
+      "year": 2004,
+      "category_code": "cs.CV",
+      "papers": 6
+    },
+    {
+      "year": 2004,
+      "category_code": "cs.LG",
+      "papers": 3
+    },
+    {
+      "year": 2004,
+      "category_code": "cs.NE",
+      "papers": 25
+    },
+    {
+      "year": 2004,
+      "category_code": "cs.RO",
+      "papers": 1
+    },
+    {
+      "year": 2005,
+      "category_code": "cs.AI",
+      "papers": 45
+    },
+    {
+      "year": 2005,
+      "category_code": "cs.CL",
+      "papers": 7
+    },
+    {
+      "year": 2005,
+      "category_code": "cs.CV",
+      "papers": 11
+    },
+    {
+      "year": 2005,
+      "category_code": "cs.IR",
+      "papers": 5
+    },
+    {
+      "year": 2005,
+      "category_code": "cs.LG",
+      "papers": 17
+    },
+    {
+      "year": 2005,
+      "category_code": "cs.NE",
+      "papers": 37
+    },
+    {
+      "year": 2006,
+      "category_code": "cs.AI",
+      "papers": 94
+    },
+    {
+      "year": 2006,
+      "category_code": "cs.CL",
+      "papers": 16
+    },
+    {
+      "year": 2006,
+      "category_code": "cs.CV",
+      "papers": 20
+    },
+    {
+      "year": 2006,
+      "category_code": "cs.HC",
+      "papers": 2
+    },
+    {
+      "year": 2006,
+      "category_code": "cs.IR",
+      "papers": 2
+    },
+    {
+      "year": 2006,
+      "category_code": "cs.LG",
+      "papers": 22
+    },
+    {
+      "year": 2006,
+      "category_code": "cs.NE",
+      "papers": 22
+    },
+    {
+      "year": 2006,
+      "category_code": "cs.SE",
+      "papers": 2
+    },
+    {
+      "year": 2007,
+      "category_code": "cs.AI",
+      "papers": 53
+    },
+    {
+      "year": 2007,
+      "category_code": "cs.CL",
+      "papers": 34
+    },
+    {
+      "year": 2007,
+      "category_code": "cs.CR",
+      "papers": 1
+    },
+    {
+      "year": 2007,
+      "category_code": "cs.CV",
+      "papers": 29
+    },
+    {
+      "year": 2007,
+      "category_code": "cs.CY",
+      "papers": 2
+    },
+    {
+      "year": 2007,
+      "category_code": "cs.HC",
+      "papers": 2
+    },
+    {
+      "year": 2007,
+      "category_code": "cs.IR",
+      "papers": 2
+    },
+    {
+      "year": 2007,
+      "category_code": "cs.LG",
+      "papers": 24
+    },
+    {
+      "year": 2007,
+      "category_code": "cs.NE",
+      "papers": 46
+    },
+    {
+      "year": 2007,
+      "category_code": "cs.RO",
+      "papers": 1
+    },
+    {
+      "year": 2007,
+      "category_code": "stat.ML",
+      "papers": 21
+    },
+    {
+      "year": 2008,
+      "category_code": "cs.AI",
+      "papers": 114
+    },
+    {
+      "year": 2008,
+      "category_code": "cs.CL",
+      "papers": 26
+    },
+    {
+      "year": 2008,
+      "category_code": "cs.CR",
+      "papers": 1
+    },
+    {
+      "year": 2008,
+      "category_code": "cs.CV",
+      "papers": 38
+    },
+    {
+      "year": 2008,
+      "category_code": "cs.HC",
+      "papers": 7
+    },
+    {
+      "year": 2008,
+      "category_code": "cs.IR",
+      "papers": 2
+    },
+    {
+      "year": 2008,
+      "category_code": "cs.LG",
+      "papers": 57
+    },
+    {
+      "year": 2008,
+      "category_code": "cs.NE",
+      "papers": 83
+    },
+    {
+      "year": 2008,
+      "category_code": "cs.RO",
+      "papers": 1
+    },
+    {
+      "year": 2008,
+      "category_code": "stat.ML",
+      "papers": 51
+    },
+    {
+      "year": 2009,
+      "category_code": "cs.AI",
+      "papers": 169
+    },
+    {
+      "year": 2009,
+      "category_code": "cs.CL",
+      "papers": 48
+    },
+    {
+      "year": 2009,
+      "category_code": "cs.CR",
+      "papers": 2
+    },
+    {
+      "year": 2009,
+      "category_code": "cs.CV",
+      "papers": 63
+    },
+    {
+      "year": 2009,
+      "category_code": "cs.CY",
+      "papers": 3
+    },
+    {
+      "year": 2009,
+      "category_code": "cs.HC",
+      "papers": 1
+    },
+    {
+      "year": 2009,
+      "category_code": "cs.IR",
+      "papers": 2
+    },
+    {
+      "year": 2009,
+      "category_code": "cs.LG",
+      "papers": 79
+    },
+    {
+      "year": 2009,
+      "category_code": "cs.NE",
+      "papers": 67
+    },
+    {
+      "year": 2009,
+      "category_code": "cs.SE",
+      "papers": 2
+    },
+    {
+      "year": 2009,
+      "category_code": "stat.ML",
+      "papers": 104
+    },
+    {
+      "year": 2010,
+      "category_code": "cs.AI",
+      "papers": 103
+    },
+    {
+      "year": 2010,
+      "category_code": "cs.CL",
+      "papers": 44
+    },
+    {
+      "year": 2010,
+      "category_code": "cs.CR",
+      "papers": 5
+    },
+    {
+      "year": 2010,
+      "category_code": "cs.CV",
+      "papers": 184
+    },
+    {
+      "year": 2010,
+      "category_code": "cs.HC",
+      "papers": 1
+    },
+    {
+      "year": 2010,
+      "category_code": "cs.IR",
+      "papers": 6
+    },
+    {
+      "year": 2010,
+      "category_code": "cs.LG",
+      "papers": 124
+    },
+    {
+      "year": 2010,
+      "category_code": "cs.NE",
+      "papers": 80
+    },
+    {
+      "year": 2010,
+      "category_code": "cs.RO",
+      "papers": 1
+    },
+    {
+      "year": 2010,
+      "category_code": "cs.SE",
+      "papers": 2
+    },
+    {
+      "year": 2010,
+      "category_code": "stat.ML",
+      "papers": 115
+    },
+    {
+      "year": 2011,
+      "category_code": "cs.AI",
+      "papers": 458
+    },
+    {
+      "year": 2011,
+      "category_code": "cs.CL",
+      "papers": 4
+    },
+    {
+      "year": 2011,
+      "category_code": "cs.CR",
+      "papers": 5
+    },
+    {
+      "year": 2011,
+      "category_code": "cs.CV",
+      "papers": 187
+    },
+    {
+      "year": 2011,
+      "category_code": "cs.IR",
+      "papers": 4
+    },
+    {
+      "year": 2011,
+      "category_code": "cs.LG",
+      "papers": 175
+    },
+    {
+      "year": 2011,
+      "category_code": "cs.NE",
+      "papers": 74
+    },
+    {
+      "year": 2011,
+      "category_code": "cs.RO",
+      "papers": 1
+    },
+    {
+      "year": 2011,
+      "category_code": "cs.SE",
+      "papers": 4
+    },
+    {
+      "year": 2011,
+      "category_code": "stat.ML",
+      "papers": 133
+    },
+    {
+      "year": 2012,
+      "category_code": "cs.AI",
+      "papers": 458
+    },
+    {
+      "year": 2012,
+      "category_code": "cs.CL",
+      "papers": 13
+    },
+    {
+      "year": 2012,
+      "category_code": "cs.CR",
+      "papers": 9
+    },
+    {
+      "year": 2012,
+      "category_code": "cs.CV",
+      "papers": 304
+    },
+    {
+      "year": 2012,
+      "category_code": "cs.HC",
+      "papers": 1
+    },
+    {
+      "year": 2012,
+      "category_code": "cs.IR",
+      "papers": 21
+    },
+    {
+      "year": 2012,
+      "category_code": "cs.LG",
+      "papers": 670
+    },
+    {
+      "year": 2012,
+      "category_code": "cs.NE",
+      "papers": 128
+    },
+    {
+      "year": 2012,
+      "category_code": "cs.RO",
+      "papers": 6
+    },
+    {
+      "year": 2012,
+      "category_code": "cs.SE",
+      "papers": 4
+    },
+    {
+      "year": 2012,
+      "category_code": "stat.ML",
+      "papers": 248
+    },
+    {
+      "year": 2013,
+      "category_code": "cs.AI",
+      "papers": 1063
+    },
+    {
+      "year": 2013,
+      "category_code": "cs.CL",
+      "papers": 111
+    },
+    {
+      "year": 2013,
+      "category_code": "cs.CR",
+      "papers": 6
+    },
+    {
+      "year": 2013,
+      "category_code": "cs.CV",
+      "papers": 490
+    },
+    {
+      "year": 2013,
+      "category_code": "cs.CY",
+      "papers": 7
+    },
+    {
+      "year": 2013,
+      "category_code": "cs.HC",
+      "papers": 4
+    },
+    {
+      "year": 2013,
+      "category_code": "cs.IR",
+      "papers": 9
+    },
+    {
+      "year": 2013,
+      "category_code": "cs.LG",
+      "papers": 433
+    },
+    {
+      "year": 2013,
+      "category_code": "cs.NE",
+      "papers": 158
+    },
+    {
+      "year": 2013,
+      "category_code": "cs.RO",
+      "papers": 9
+    },
+    {
+      "year": 2013,
+      "category_code": "cs.SE",
+      "papers": 1
+    },
+    {
+      "year": 2013,
+      "category_code": "stat.ML",
+      "papers": 293
+    },
+    {
+      "year": 2014,
+      "category_code": "cs.AI",
+      "papers": 532
+    },
+    {
+      "year": 2014,
+      "category_code": "cs.CL",
+      "papers": 248
+    },
+    {
+      "year": 2014,
+      "category_code": "cs.CR",
+      "papers": 2
+    },
+    {
+      "year": 2014,
+      "category_code": "cs.CV",
+      "papers": 712
+    },
+    {
+      "year": 2014,
+      "category_code": "cs.CY",
+      "papers": 9
+    },
+    {
+      "year": 2014,
+      "category_code": "cs.HC",
+      "papers": 5
+    },
+    {
+      "year": 2014,
+      "category_code": "cs.IR",
+      "papers": 15
+    },
+    {
+      "year": 2014,
+      "category_code": "cs.LG",
+      "papers": 374
+    },
+    {
+      "year": 2014,
+      "category_code": "cs.NE",
+      "papers": 177
+    },
+    {
+      "year": 2014,
+      "category_code": "cs.RO",
+      "papers": 8
+    },
+    {
+      "year": 2014,
+      "category_code": "cs.SE",
+      "papers": 4
+    },
+    {
+      "year": 2014,
+      "category_code": "stat.ML",
+      "papers": 410
+    },
+    {
+      "year": 2015,
+      "category_code": "cs.AI",
+      "papers": 315
+    },
+    {
+      "year": 2015,
+      "category_code": "cs.CL",
+      "papers": 421
+    },
+    {
+      "year": 2015,
+      "category_code": "cs.CR",
+      "papers": 6
+    },
+    {
+      "year": 2015,
+      "category_code": "cs.CV",
+      "papers": 980
+    },
+    {
+      "year": 2015,
+      "category_code": "cs.CY",
+      "papers": 7
+    },
+    {
+      "year": 2015,
+      "category_code": "cs.HC",
+      "papers": 4
+    },
+    {
+      "year": 2015,
+      "category_code": "cs.IR",
+      "papers": 21
+    },
+    {
+      "year": 2015,
+      "category_code": "cs.LG",
+      "papers": 806
+    },
+    {
+      "year": 2015,
+      "category_code": "cs.NE",
+      "papers": 201
+    },
+    {
+      "year": 2015,
+      "category_code": "cs.RO",
+      "papers": 6
+    },
+    {
+      "year": 2015,
+      "category_code": "cs.SE",
+      "papers": 11
+    },
+    {
+      "year": 2015,
+      "category_code": "stat.ML",
+      "papers": 612
+    },
+    {
+      "year": 2016,
+      "category_code": "cs.AI",
+      "papers": 594
+    },
+    {
+      "year": 2016,
+      "category_code": "cs.CL",
+      "papers": 867
+    },
+    {
+      "year": 2016,
+      "category_code": "cs.CR",
+      "papers": 19
+    },
+    {
+      "year": 2016,
+      "category_code": "cs.CV",
+      "papers": 2094
+    },
+    {
+      "year": 2016,
+      "category_code": "cs.CY",
+      "papers": 14
+    },
+    {
+      "year": 2016,
+      "category_code": "cs.HC",
+      "papers": 11
+    },
+    {
+      "year": 2016,
+      "category_code": "cs.IR",
+      "papers": 42
+    },
+    {
+      "year": 2016,
+      "category_code": "cs.LG",
+      "papers": 1093
+    },
+    {
+      "year": 2016,
+      "category_code": "cs.NE",
+      "papers": 269
+    },
+    {
+      "year": 2016,
+      "category_code": "cs.RO",
+      "papers": 28
+    },
+    {
+      "year": 2016,
+      "category_code": "cs.SE",
+      "papers": 9
+    },
+    {
+      "year": 2016,
+      "category_code": "stat.ML",
+      "papers": 911
+    },
+    {
+      "year": 2017,
+      "category_code": "cs.AI",
+      "papers": 850
+    },
+    {
+      "year": 2017,
+      "category_code": "cs.CL",
+      "papers": 1565
+    },
+    {
+      "year": 2017,
+      "category_code": "cs.CR",
+      "papers": 42
+    },
+    {
+      "year": 2017,
+      "category_code": "cs.CV",
+      "papers": 3287
+    },
+    {
+      "year": 2017,
+      "category_code": "cs.CY",
+      "papers": 25
+    },
+    {
+      "year": 2017,
+      "category_code": "cs.HC",
+      "papers": 15
+    },
+    {
+      "year": 2017,
+      "category_code": "cs.IR",
+      "papers": 46
+    },
+    {
+      "year": 2017,
+      "category_code": "cs.LG",
+      "papers": 1607
+    },
+    {
+      "year": 2017,
+      "category_code": "cs.NE",
+      "papers": 268
+    },
+    {
+      "year": 2017,
+      "category_code": "cs.RO",
+      "papers": 44
+    },
+    {
+      "year": 2017,
+      "category_code": "cs.SE",
+      "papers": 12
+    },
+    {
+      "year": 2017,
+      "category_code": "stat.ML",
+      "papers": 1230
+    },
+    {
+      "year": 2018,
+      "category_code": "cs.AI",
+      "papers": 837
+    },
+    {
+      "year": 2018,
+      "category_code": "cs.CL",
+      "papers": 1713
+    },
+    {
+      "year": 2018,
+      "category_code": "cs.CR",
+      "papers": 59
+    },
+    {
+      "year": 2018,
+      "category_code": "cs.CV",
+      "papers": 3549
+    },
+    {
+      "year": 2018,
+      "category_code": "cs.CY",
+      "papers": 46
+    },
+    {
+      "year": 2018,
+      "category_code": "cs.HC",
+      "papers": 18
+    },
+    {
+      "year": 2018,
+      "category_code": "cs.IR",
+      "papers": 91
+    },
+    {
+      "year": 2018,
+      "category_code": "cs.LG",
+      "papers": 3264
+    },
+    {
+      "year": 2018,
+      "category_code": "cs.NE",
+      "papers": 369
+    },
+    {
+      "year": 2018,
+      "category_code": "cs.RO",
+      "papers": 43
+    },
+    {
+      "year": 2018,
+      "category_code": "cs.SE",
+      "papers": 19
+    },
+    {
+      "year": 2018,
+      "category_code": "eess.IV",
+      "papers": 11
+    },
+    {
+      "year": 2018,
+      "category_code": "stat.ML",
+      "papers": 1518
+    },
+    {
+      "year": 2019,
+      "category_code": "cs.AI",
+      "papers": 709
+    },
+    {
+      "year": 2019,
+      "category_code": "cs.CL",
+      "papers": 2448
+    },
+    {
+      "year": 2019,
+      "category_code": "cs.CR",
+      "papers": 93
+    },
+    {
+      "year": 2019,
+      "category_code": "cs.CV",
+      "papers": 3425
+    },
+    {
+      "year": 2019,
+      "category_code": "cs.CY",
+      "papers": 55
+    },
+    {
+      "year": 2019,
+      "category_code": "cs.HC",
+      "papers": 36
+    },
+    {
+      "year": 2019,
+      "category_code": "cs.IR",
+      "papers": 144
+    },
+    {
+      "year": 2019,
+      "category_code": "cs.LG",
+      "papers": 5176
+    },
+    {
+      "year": 2019,
+      "category_code": "cs.NE",
+      "papers": 418
+    },
+    {
+      "year": 2019,
+      "category_code": "cs.RO",
+      "papers": 94
+    },
+    {
+      "year": 2019,
+      "category_code": "cs.SE",
+      "papers": 34
+    },
+    {
+      "year": 2019,
+      "category_code": "eess.IV",
+      "papers": 90
+    },
+    {
+      "year": 2019,
+      "category_code": "stat.ML",
+      "papers": 1027
+    },
+    {
+      "year": 2020,
+      "category_code": "cs.AI",
+      "papers": 915
+    },
+    {
+      "year": 2020,
+      "category_code": "cs.CL",
+      "papers": 2466
+    },
+    {
+      "year": 2020,
+      "category_code": "cs.CR",
+      "papers": 105
+    },
+    {
+      "year": 2020,
+      "category_code": "cs.CV",
+      "papers": 3011
+    },
+    {
+      "year": 2020,
+      "category_code": "cs.CY",
+      "papers": 72
+    },
+    {
+      "year": 2020,
+      "category_code": "cs.HC",
+      "papers": 29
+    },
+    {
+      "year": 2020,
+      "category_code": "cs.IR",
+      "papers": 119
+    },
+    {
+      "year": 2020,
+      "category_code": "cs.LG",
+      "papers": 6258
+    },
+    {
+      "year": 2020,
+      "category_code": "cs.NE",
+      "papers": 557
+    },
+    {
+      "year": 2020,
+      "category_code": "cs.RO",
+      "papers": 122
+    },
+    {
+      "year": 2020,
+      "category_code": "cs.SE",
+      "papers": 31
+    },
+    {
+      "year": 2020,
+      "category_code": "eess.IV",
+      "papers": 81
+    },
+    {
+      "year": 2020,
+      "category_code": "stat.ML",
+      "papers": 1095
+    },
+    {
+      "year": 2021,
+      "category_code": "cs.AI",
+      "papers": 1095
+    },
+    {
+      "year": 2021,
+      "category_code": "cs.CL",
+      "papers": 3168
+    },
+    {
+      "year": 2021,
+      "category_code": "cs.CR",
+      "papers": 96
+    },
+    {
+      "year": 2021,
+      "category_code": "cs.CV",
+      "papers": 3485
+    },
+    {
+      "year": 2021,
+      "category_code": "cs.CY",
+      "papers": 60
+    },
+    {
+      "year": 2021,
+      "category_code": "cs.HC",
+      "papers": 54
+    },
+    {
+      "year": 2021,
+      "category_code": "cs.IR",
+      "papers": 110
+    },
+    {
+      "year": 2021,
+      "category_code": "cs.LG",
+      "papers": 5428
+    },
+    {
+      "year": 2021,
+      "category_code": "cs.NE",
+      "papers": 438
+    },
+    {
+      "year": 2021,
+      "category_code": "cs.RO",
+      "papers": 150
+    },
+    {
+      "year": 2021,
+      "category_code": "cs.SE",
+      "papers": 51
+    },
+    {
+      "year": 2021,
+      "category_code": "eess.IV",
+      "papers": 11
+    },
+    {
+      "year": 2021,
+      "category_code": "stat.ML",
+      "papers": 744
+    },
+    {
+      "year": 2022,
+      "category_code": "cs.AI",
+      "papers": 1023
+    },
+    {
+      "year": 2022,
+      "category_code": "cs.CL",
+      "papers": 3896
+    },
+    {
+      "year": 2022,
+      "category_code": "cs.CR",
+      "papers": 80
+    },
+    {
+      "year": 2022,
+      "category_code": "cs.CV",
+      "papers": 3804
+    },
+    {
+      "year": 2022,
+      "category_code": "cs.CY",
+      "papers": 51
+    },
+    {
+      "year": 2022,
+      "category_code": "cs.HC",
+      "papers": 54
+    },
+    {
+      "year": 2022,
+      "category_code": "cs.IR",
+      "papers": 95
+    },
+    {
+      "year": 2022,
+      "category_code": "cs.LG",
+      "papers": 4925
+    },
+    {
+      "year": 2022,
+      "category_code": "cs.NE",
+      "papers": 693
+    },
+    {
+      "year": 2022,
+      "category_code": "cs.RO",
+      "papers": 141
+    },
+    {
+      "year": 2022,
+      "category_code": "cs.SE",
+      "papers": 41
+    },
+    {
+      "year": 2022,
+      "category_code": "eess.IV",
+      "papers": 16
+    },
+    {
+      "year": 2022,
+      "category_code": "stat.ML",
+      "papers": 691
+    },
+    {
+      "year": 2023,
+      "category_code": "cs.AI",
+      "papers": 1407
+    },
+    {
+      "year": 2023,
+      "category_code": "cs.CL",
+      "papers": 4317
+    },
+    {
+      "year": 2023,
+      "category_code": "cs.CR",
+      "papers": 64
+    },
+    {
+      "year": 2023,
+      "category_code": "cs.CV",
+      "papers": 2840
+    },
+    {
+      "year": 2023,
+      "category_code": "cs.CY",
+      "papers": 102
+    },
+    {
+      "year": 2023,
+      "category_code": "cs.HC",
+      "papers": 104
+    },
+    {
+      "year": 2023,
+      "category_code": "cs.IR",
+      "papers": 75
+    },
+    {
+      "year": 2023,
+      "category_code": "cs.LG",
+      "papers": 4450
+    },
+    {
+      "year": 2023,
+      "category_code": "cs.NE",
+      "papers": 599
+    },
+    {
+      "year": 2023,
+      "category_code": "cs.RO",
+      "papers": 153
+    },
+    {
+      "year": 2023,
+      "category_code": "cs.SE",
+      "papers": 87
+    },
+    {
+      "year": 2023,
+      "category_code": "eess.IV",
+      "papers": 7
+    },
+    {
+      "year": 2023,
+      "category_code": "stat.ML",
+      "papers": 514
+    },
+    {
+      "year": 2024,
+      "category_code": "cs.AI",
+      "papers": 1573
+    },
+    {
+      "year": 2024,
+      "category_code": "cs.CL",
+      "papers": 3467
+    },
+    {
+      "year": 2024,
+      "category_code": "cs.CR",
+      "papers": 68
+    },
+    {
+      "year": 2024,
+      "category_code": "cs.CV",
+      "papers": 498
+    },
+    {
+      "year": 2024,
+      "category_code": "cs.CY",
+      "papers": 62
+    },
+    {
+      "year": 2024,
+      "category_code": "cs.HC",
+      "papers": 62
+    },
+    {
+      "year": 2024,
+      "category_code": "cs.IR",
+      "papers": 87
+    },
+    {
+      "year": 2024,
+      "category_code": "cs.LG",
+      "papers": 4708
+    },
+    {
+      "year": 2024,
+      "category_code": "cs.NE",
+      "papers": 708
+    },
+    {
+      "year": 2024,
+      "category_code": "cs.RO",
+      "papers": 89
+    },
+    {
+      "year": 2024,
+      "category_code": "cs.SE",
+      "papers": 66
+    },
+    {
+      "year": 2024,
+      "category_code": "eess.IV",
+      "papers": 12
+    },
+    {
+      "year": 2024,
+      "category_code": "stat.ML",
+      "papers": 645
+    },
+    {
+      "year": 2025,
+      "category_code": "cs.AI",
+      "papers": 8297
+    },
+    {
+      "year": 2025,
+      "category_code": "cs.CL",
+      "papers": 7935
+    },
+    {
+      "year": 2025,
+      "category_code": "cs.CR",
+      "papers": 2138
+    },
+    {
+      "year": 2025,
+      "category_code": "cs.CV",
+      "papers": 26607
+    },
+    {
+      "year": 2025,
+      "category_code": "cs.CY",
+      "papers": 1149
+    },
+    {
+      "year": 2025,
+      "category_code": "cs.HC",
+      "papers": 1130
+    },
+    {
+      "year": 2025,
+      "category_code": "cs.IR",
+      "papers": 1085
+    },
+    {
+      "year": 2025,
+      "category_code": "cs.LG",
+      "papers": 24914
+    },
+    {
+      "year": 2025,
+      "category_code": "cs.NE",
+      "papers": 775
+    },
+    {
+      "year": 2025,
+      "category_code": "cs.RO",
+      "papers": 2774
+    },
+    {
+      "year": 2025,
+      "category_code": "cs.SE",
+      "papers": 1266
+    },
+    {
+      "year": 2025,
+      "category_code": "eess.IV",
+      "papers": 1996
+    },
+    {
+      "year": 2025,
+      "category_code": "stat.ML",
+      "papers": 2153
+    },
+    {
+      "year": 2026,
+      "category_code": "cs.AI",
+      "papers": 7570
+    },
+    {
+      "year": 2026,
+      "category_code": "cs.CL",
+      "papers": 4113
+    },
+    {
+      "year": 2026,
+      "category_code": "cs.CR",
+      "papers": 1573
+    },
+    {
+      "year": 2026,
+      "category_code": "cs.CV",
+      "papers": 15435
+    },
+    {
+      "year": 2026,
+      "category_code": "cs.CY",
+      "papers": 629
+    },
+    {
+      "year": 2026,
+      "category_code": "cs.HC",
+      "papers": 643
+    },
+    {
+      "year": 2026,
+      "category_code": "cs.IR",
+      "papers": 726
+    },
+    {
+      "year": 2026,
+      "category_code": "cs.LG",
+      "papers": 15769
+    },
+    {
+      "year": 2026,
+      "category_code": "cs.NE",
+      "papers": 480
+    },
+    {
+      "year": 2026,
+      "category_code": "cs.RO",
+      "papers": 1578
+    },
+    {
+      "year": 2026,
+      "category_code": "cs.SE",
+      "papers": 928
+    },
+    {
+      "year": 2026,
+      "category_code": "eess.IV",
+      "papers": 547
+    },
+    {
+      "year": 2026,
+      "category_code": "stat.ML",
+      "papers": 1367
+    }
+  ],
+  "top_terms": {
+    "cs.AI": [
+      {
+        "word": "agent",
+        "chi2": 16413.8,
+        "pct_in_category": 28.6,
+        "pct_elsewhere": 5.7
+      },
+      {
+        "word": "reasoning",
+        "chi2": 9200.9,
+        "pct_in_category": 26.0,
+        "pct_elsewhere": 7.5
+      },
+      {
+        "word": "ai",
+        "chi2": 7464.4,
+        "pct_in_category": 21.3,
+        "pct_elsewhere": 6.2
+      },
+      {
+        "word": "logic",
+        "chi2": 7061.9,
+        "pct_in_category": 7.3,
+        "pct_elsewhere": 0.8
+      },
+      {
+        "word": "llm",
+        "chi2": 4908.5,
+        "pct_in_category": 26.5,
+        "pct_elsewhere": 10.9
+      },
+      {
+        "word": "intelligence",
+        "chi2": 4690.9,
+        "pct_in_category": 11.2,
+        "pct_elsewhere": 2.8
+      },
+      {
+        "word": "agentic",
+        "chi2": 4096.7,
+        "pct_in_category": 5.6,
+        "pct_elsewhere": 0.9
+      },
+      {
+        "word": "planning",
+        "chi2": 3767.9,
+        "pct_in_category": 9.0,
+        "pct_elsewhere": 2.3
+      },
+      {
+        "word": "decision",
+        "chi2": 3565.9,
+        "pct_in_category": 17.9,
+        "pct_elsewhere": 7.1
+      },
+      {
+        "word": "artificial",
+        "chi2": 3077.0,
+        "pct_in_category": 10.1,
+        "pct_elsewhere": 3.2
+      },
+      {
+        "word": "game",
+        "chi2": 3042.6,
+        "pct_in_category": 6.0,
+        "pct_elsewhere": 1.3
+      },
+      {
+        "word": "belief",
+        "chi2": 2877.2,
+        "pct_in_category": 3.8,
+        "pct_elsewhere": 0.6
+      },
+      {
+        "word": "system",
+        "chi2": 2784.9,
+        "pct_in_category": 34.2,
+        "pct_elsewhere": 19.2
+      },
+      {
+        "word": "logical",
+        "chi2": 2700.2,
+        "pct_in_category": 4.0,
+        "pct_elsewhere": 0.7
+      },
+      {
+        "word": "ontology",
+        "chi2": 2619.3,
+        "pct_in_category": 2.5,
+        "pct_elsewhere": 0.2
+      }
+    ],
+    "cs.CL": [
+      {
+        "word": "language",
+        "chi2": 28834.2,
+        "pct_in_category": 66.0,
+        "pct_elsewhere": 18.3
+      },
+      {
+        "word": "word",
+        "chi2": 22095.2,
+        "pct_in_category": 16.5,
+        "pct_elsewhere": 1.2
+      },
+      {
+        "word": "sentence",
+        "chi2": 21584.8,
+        "pct_in_category": 13.1,
+        "pct_elsewhere": 0.5
+      },
+      {
+        "word": "english",
+        "chi2": 19841.8,
+        "pct_in_category": 11.1,
+        "pct_elsewhere": 0.3
+      },
+      {
+        "word": "nlp",
+        "chi2": 17016.1,
+        "pct_in_category": 10.7,
+        "pct_elsewhere": 0.5
+      },
+      {
+        "word": "corpus",
+        "chi2": 16543.3,
+        "pct_in_category": 13.0,
+        "pct_elsewhere": 1.1
+      },
+      {
+        "word": "text",
+        "chi2": 14761.0,
+        "pct_in_category": 28.8,
+        "pct_elsewhere": 7.1
+      },
+      {
+        "word": "multilingual",
+        "chi2": 10638.9,
+        "pct_in_category": 6.3,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "translation",
+        "chi2": 9746.1,
+        "pct_in_category": 9.8,
+        "pct_elsewhere": 1.2
+      },
+      {
+        "word": "bert",
+        "chi2": 8889.3,
+        "pct_in_category": 5.8,
+        "pct_elsewhere": 0.3
+      },
+      {
+        "word": "llm",
+        "chi2": 8701.1,
+        "pct_in_category": 28.5,
+        "pct_elsewhere": 10.0
+      },
+      {
+        "word": "linguistic",
+        "chi2": 8467.7,
+        "pct_in_category": 7.3,
+        "pct_elsewhere": 0.7
+      },
+      {
+        "word": "dialogue",
+        "chi2": 6847.5,
+        "pct_in_category": 5.5,
+        "pct_elsewhere": 0.5
+      },
+      {
+        "word": "document",
+        "chi2": 6673.5,
+        "pct_in_category": 8.6,
+        "pct_elsewhere": 1.4
+      },
+      {
+        "word": "natural",
+        "chi2": 6425.8,
+        "pct_in_category": 18.7,
+        "pct_elsewhere": 6.1
+      }
+    ],
+    "cs.CR": [
+      {
+        "word": "attack",
+        "chi2": 40998.5,
+        "pct_in_category": 57.7,
+        "pct_elsewhere": 2.3
+      },
+      {
+        "word": "security",
+        "chi2": 38028.9,
+        "pct_in_category": 41.4,
+        "pct_elsewhere": 1.2
+      },
+      {
+        "word": "threat",
+        "chi2": 27808.8,
+        "pct_in_category": 27.7,
+        "pct_elsewhere": 0.7
+      },
+      {
+        "word": "defense",
+        "chi2": 21406.3,
+        "pct_in_category": 24.8,
+        "pct_elsewhere": 0.8
+      },
+      {
+        "word": "vulnerability",
+        "chi2": 19191.8,
+        "pct_in_category": 25.3,
+        "pct_elsewhere": 0.9
+      },
+      {
+        "word": "malicious",
+        "chi2": 18391.1,
+        "pct_in_category": 17.9,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "secure",
+        "chi2": 13502.3,
+        "pct_in_category": 12.8,
+        "pct_elsewhere": 0.3
+      },
+      {
+        "word": "attacker",
+        "chi2": 12326.9,
+        "pct_in_category": 12.0,
+        "pct_elsewhere": 0.3
+      },
+      {
+        "word": "malware",
+        "chi2": 11694.7,
+        "pct_in_category": 6.5,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "cybersecurity",
+        "chi2": 10605.1,
+        "pct_in_category": 8.2,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "intrusion",
+        "chi2": 7845.4,
+        "pct_in_category": 6.3,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "benign",
+        "chi2": 7328.6,
+        "pct_in_category": 10.0,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "cryptographic",
+        "chi2": 7279.1,
+        "pct_in_category": 4.6,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "cyber",
+        "chi2": 7160.9,
+        "pct_in_category": 7.3,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "encryption",
+        "chi2": 6893.1,
+        "pct_in_category": 4.7,
+        "pct_elsewhere": 0.1
+      }
+    ],
+    "cs.CV": [
+      {
+        "word": "image",
+        "chi2": 59348.6,
+        "pct_in_category": 55.5,
+        "pct_elsewhere": 7.1
+      },
+      {
+        "word": "visual",
+        "chi2": 26694.3,
+        "pct_in_category": 25.0,
+        "pct_elsewhere": 3.2
+      },
+      {
+        "word": "object",
+        "chi2": 23906.2,
+        "pct_in_category": 21.5,
+        "pct_elsewhere": 2.6
+      },
+      {
+        "word": "video",
+        "chi2": 22637.1,
+        "pct_in_category": 18.1,
+        "pct_elsewhere": 1.7
+      },
+      {
+        "word": "scene",
+        "chi2": 21013.5,
+        "pct_in_category": 14.6,
+        "pct_elsewhere": 0.9
+      },
+      {
+        "word": "vision",
+        "chi2": 20062.9,
+        "pct_in_category": 22.4,
+        "pct_elsewhere": 3.8
+      },
+      {
+        "word": "segmentation",
+        "chi2": 19182.2,
+        "pct_in_category": 14.8,
+        "pct_elsewhere": 1.2
+      },
+      {
+        "word": "camera",
+        "chi2": 12599.7,
+        "pct_in_category": 8.5,
+        "pct_elsewhere": 0.5
+      },
+      {
+        "word": "pixel",
+        "chi2": 11819.3,
+        "pct_in_category": 8.7,
+        "pct_elsewhere": 0.6
+      },
+      {
+        "word": "spatial",
+        "chi2": 11335.4,
+        "pct_in_category": 14.1,
+        "pct_elsewhere": 2.8
+      },
+      {
+        "word": "frame",
+        "chi2": 10854.5,
+        "pct_in_category": 9.6,
+        "pct_elsewhere": 1.1
+      },
+      {
+        "word": "art",
+        "chi2": 9009.6,
+        "pct_in_category": 37.6,
+        "pct_elsewhere": 17.6
+      },
+      {
+        "word": "feature",
+        "chi2": 8869.8,
+        "pct_in_category": 33.0,
+        "pct_elsewhere": 14.6
+      },
+      {
+        "word": "motion",
+        "chi2": 8862.9,
+        "pct_in_category": 8.5,
+        "pct_elsewhere": 1.2
+      },
+      {
+        "word": "appearance",
+        "chi2": 7939.8,
+        "pct_in_category": 5.0,
+        "pct_elsewhere": 0.2
+      }
+    ],
+    "cs.CY": [
+      {
+        "word": "ai",
+        "chi2": 8731.2,
+        "pct_in_category": 62.3,
+        "pct_elsewhere": 7.4
+      },
+      {
+        "word": "governance",
+        "chi2": 8406.8,
+        "pct_in_category": 13.6,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "education",
+        "chi2": 7605.0,
+        "pct_in_category": 15.2,
+        "pct_elsewhere": 0.5
+      },
+      {
+        "word": "ethical",
+        "chi2": 7299.7,
+        "pct_in_category": 14.5,
+        "pct_elsewhere": 0.5
+      },
+      {
+        "word": "accountability",
+        "chi2": 4507.8,
+        "pct_in_category": 6.9,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "ethic",
+        "chi2": 4064.3,
+        "pct_in_category": 5.8,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "eu",
+        "chi2": 4012.8,
+        "pct_in_category": 4.9,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "educational",
+        "chi2": 3677.3,
+        "pct_in_category": 9.1,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "intelligence",
+        "chi2": 3570.1,
+        "pct_in_category": 27.9,
+        "pct_elsewhere": 3.6
+      },
+      {
+        "word": "policymakers",
+        "chi2": 3547.2,
+        "pct_in_category": 4.6,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "educator",
+        "chi2": 3536.6,
+        "pct_in_category": 4.2,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "regulatory",
+        "chi2": 3267.0,
+        "pct_in_category": 8.4,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "artificial",
+        "chi2": 3227.8,
+        "pct_in_category": 27.3,
+        "pct_elsewhere": 3.7
+      },
+      {
+        "word": "democratic",
+        "chi2": 3147.4,
+        "pct_in_category": 2.5,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "societal",
+        "chi2": 3123.5,
+        "pct_in_category": 6.8,
+        "pct_elsewhere": 0.3
+      }
+    ],
+    "cs.HC": [
+      {
+        "word": "participant",
+        "chi2": 10057.5,
+        "pct_in_category": 24.2,
+        "pct_elsewhere": 1.0
+      },
+      {
+        "word": "ai",
+        "chi2": 6033.8,
+        "pct_in_category": 54.3,
+        "pct_elsewhere": 7.5
+      },
+      {
+        "word": "interview",
+        "chi2": 5591.4,
+        "pct_in_category": 7.9,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "user",
+        "chi2": 4909.7,
+        "pct_in_category": 48.3,
+        "pct_elsewhere": 7.1
+      },
+      {
+        "word": "hci",
+        "chi2": 4644.1,
+        "pct_in_category": 3.7,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "engagement",
+        "chi2": 4145.9,
+        "pct_in_category": 9.9,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "formative",
+        "chi2": 3686.3,
+        "pct_in_category": 3.0,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "perceived",
+        "chi2": 3518.7,
+        "pct_in_category": 8.7,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "interface",
+        "chi2": 2995.2,
+        "pct_in_category": 16.2,
+        "pct_elsewhere": 1.5
+      },
+      {
+        "word": "experience",
+        "chi2": 2664.5,
+        "pct_in_category": 17.7,
+        "pct_elsewhere": 1.9
+      },
+      {
+        "word": "interaction",
+        "chi2": 2314.7,
+        "pct_in_category": 33.7,
+        "pct_elsewhere": 6.6
+      },
+      {
+        "word": "sensemaking",
+        "chi2": 2102.3,
+        "pct_in_category": 1.4,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "emotional",
+        "chi2": 2067.5,
+        "pct_in_category": 7.4,
+        "pct_elsewhere": 0.5
+      },
+      {
+        "word": "conversational",
+        "chi2": 1983.1,
+        "pct_in_category": 9.5,
+        "pct_elsewhere": 0.8
+      },
+      {
+        "word": "human",
+        "chi2": 1770.6,
+        "pct_in_category": 46.3,
+        "pct_elsewhere": 13.2
+      }
+    ],
+    "cs.IR": [
+      {
+        "word": "recommender",
+        "chi2": 26405.6,
+        "pct_in_category": 22.5,
+        "pct_elsewhere": 0.3
+      },
+      {
+        "word": "recommendation",
+        "chi2": 25727.7,
+        "pct_in_category": 41.3,
+        "pct_elsewhere": 1.3
+      },
+      {
+        "word": "item",
+        "chi2": 18042.8,
+        "pct_in_category": 28.5,
+        "pct_elsewhere": 0.8
+      },
+      {
+        "word": "retrieval",
+        "chi2": 8312.9,
+        "pct_in_category": 39.2,
+        "pct_elsewhere": 3.7
+      },
+      {
+        "word": "ndcg",
+        "chi2": 7391.3,
+        "pct_in_category": 5.8,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "user",
+        "chi2": 6410.1,
+        "pct_in_category": 49.3,
+        "pct_elsewhere": 7.0
+      },
+      {
+        "word": "recommenders",
+        "chi2": 5438.3,
+        "pct_in_category": 3.1,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "ranking",
+        "chi2": 4129.8,
+        "pct_in_category": 17.4,
+        "pct_elsewhere": 1.5
+      },
+      {
+        "word": "query",
+        "chi2": 3508.3,
+        "pct_in_category": 26.8,
+        "pct_elsewhere": 3.8
+      },
+      {
+        "word": "rag",
+        "chi2": 3489.2,
+        "pct_in_category": 11.8,
+        "pct_elsewhere": 0.8
+      },
+      {
+        "word": "click",
+        "chi2": 3436.9,
+        "pct_in_category": 6.2,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "trec",
+        "chi2": 3024.0,
+        "pct_in_category": 2.2,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "document",
+        "chi2": 3015.1,
+        "pct_in_category": 18.9,
+        "pct_elsewhere": 2.3
+      },
+      {
+        "word": "commerce",
+        "chi2": 2993.0,
+        "pct_in_category": 6.5,
+        "pct_elsewhere": 0.3
+      },
+      {
+        "word": "ctr",
+        "chi2": 2989.8,
+        "pct_in_category": 2.9,
+        "pct_elsewhere": 0.0
+      }
+    ],
+    "cs.LG": [
+      {
+        "word": "learning",
+        "chi2": 9407.8,
+        "pct_in_category": 59.3,
+        "pct_elsewhere": 32.9
+      },
+      {
+        "word": "gradient",
+        "chi2": 6413.6,
+        "pct_in_category": 12.6,
+        "pct_elsewhere": 3.9
+      },
+      {
+        "word": "theoretical",
+        "chi2": 5228.0,
+        "pct_in_category": 10.9,
+        "pct_elsewhere": 3.5
+      },
+      {
+        "word": "bound",
+        "chi2": 4864.5,
+        "pct_in_category": 8.9,
+        "pct_elsewhere": 2.6
+      },
+      {
+        "word": "algorithm",
+        "chi2": 4371.2,
+        "pct_in_category": 27.0,
+        "pct_elsewhere": 14.9
+      },
+      {
+        "word": "machine",
+        "chi2": 4273.4,
+        "pct_in_category": 18.3,
+        "pct_elsewhere": 8.8
+      },
+      {
+        "word": "neural",
+        "chi2": 4068.8,
+        "pct_in_category": 26.9,
+        "pct_elsewhere": 15.2
+      },
+      {
+        "word": "forecasting",
+        "chi2": 3770.0,
+        "pct_in_category": 4.2,
+        "pct_elsewhere": 0.7
+      },
+      {
+        "word": "reinforcement",
+        "chi2": 3501.1,
+        "pct_in_category": 11.3,
+        "pct_elsewhere": 4.7
+      },
+      {
+        "word": "function",
+        "chi2": 3495.9,
+        "pct_in_category": 17.3,
+        "pct_elsewhere": 8.8
+      },
+      {
+        "word": "guarantee",
+        "chi2": 3279.9,
+        "pct_in_category": 6.9,
+        "pct_elsewhere": 2.2
+      },
+      {
+        "word": "distribution",
+        "chi2": 3260.1,
+        "pct_in_category": 17.5,
+        "pct_elsewhere": 9.2
+      },
+      {
+        "word": "gnns",
+        "chi2": 3218.5,
+        "pct_in_category": 2.5,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "federated",
+        "chi2": 3153.5,
+        "pct_in_category": 3.3,
+        "pct_elsewhere": 0.5
+      },
+      {
+        "word": "network",
+        "chi2": 3147.6,
+        "pct_in_category": 33.8,
+        "pct_elsewhere": 21.7
+      }
+    ],
+    "cs.NE": [
+      {
+        "word": "evolutionary",
+        "chi2": 35065.6,
+        "pct_in_category": 26.9,
+        "pct_elsewhere": 0.6
+      },
+      {
+        "word": "spiking",
+        "chi2": 26164.2,
+        "pct_in_category": 15.9,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "genetic",
+        "chi2": 18829.5,
+        "pct_in_category": 16.0,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "neuromorphic",
+        "chi2": 15972.6,
+        "pct_in_category": 9.9,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "snns",
+        "chi2": 15259.3,
+        "pct_in_category": 9.4,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "snn",
+        "chi2": 12573.5,
+        "pct_in_category": 7.8,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "spike",
+        "chi2": 11189.7,
+        "pct_in_category": 9.2,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "fitness",
+        "chi2": 10999.0,
+        "pct_in_category": 8.4,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "neuron",
+        "chi2": 10814.9,
+        "pct_in_category": 15.2,
+        "pct_elsewhere": 0.9
+      },
+      {
+        "word": "synaptic",
+        "chi2": 8741.1,
+        "pct_in_category": 5.4,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "ea",
+        "chi2": 7907.8,
+        "pct_in_category": 4.6,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "swarm",
+        "chi2": 7153.9,
+        "pct_in_category": 6.1,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "mutation",
+        "chi2": 6732.5,
+        "pct_in_category": 6.4,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "population",
+        "chi2": 6182.2,
+        "pct_in_category": 13.9,
+        "pct_elsewhere": 1.3
+      },
+      {
+        "word": "crossover",
+        "chi2": 5831.8,
+        "pct_in_category": 4.1,
+        "pct_elsewhere": 0.1
+      }
+    ],
+    "cs.RO": [
+      {
+        "word": "robot",
+        "chi2": 75426.0,
+        "pct_in_category": 54.8,
+        "pct_elsewhere": 0.9
+      },
+      {
+        "word": "robotic",
+        "chi2": 36170.9,
+        "pct_in_category": 29.5,
+        "pct_elsewhere": 0.6
+      },
+      {
+        "word": "manipulation",
+        "chi2": 20164.4,
+        "pct_in_category": 26.5,
+        "pct_elsewhere": 1.1
+      },
+      {
+        "word": "vla",
+        "chi2": 13090.0,
+        "pct_in_category": 9.2,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "robotics",
+        "chi2": 9622.9,
+        "pct_in_category": 14.7,
+        "pct_elsewhere": 0.8
+      },
+      {
+        "word": "navigation",
+        "chi2": 8614.1,
+        "pct_in_category": 14.8,
+        "pct_elsewhere": 0.9
+      },
+      {
+        "word": "demonstration",
+        "chi2": 7726.3,
+        "pct_in_category": 13.4,
+        "pct_elsewhere": 0.8
+      },
+      {
+        "word": "environment",
+        "chi2": 7522.3,
+        "pct_in_category": 41.5,
+        "pct_elsewhere": 7.3
+      },
+      {
+        "word": "dexterous",
+        "chi2": 7192.5,
+        "pct_in_category": 3.8,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "embodiment",
+        "chi2": 7180.5,
+        "pct_in_category": 4.9,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "manipulator",
+        "chi2": 7125.2,
+        "pct_in_category": 3.6,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "humanoid",
+        "chi2": 7099.2,
+        "pct_in_category": 5.0,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "autonomous",
+        "chi2": 7032.8,
+        "pct_in_category": 24.0,
+        "pct_elsewhere": 2.8
+      },
+      {
+        "word": "planning",
+        "chi2": 6679.3,
+        "pct_in_category": 22.6,
+        "pct_elsewhere": 2.7
+      },
+      {
+        "word": "simulation",
+        "chi2": 6655.6,
+        "pct_in_category": 27.1,
+        "pct_elsewhere": 3.7
+      }
+    ],
+    "cs.SE": [
+      {
+        "word": "software",
+        "chi2": 42263.0,
+        "pct_in_category": 55.0,
+        "pct_elsewhere": 1.2
+      },
+      {
+        "word": "bug",
+        "chi2": 13862.6,
+        "pct_in_category": 10.1,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "developer",
+        "chi2": 13132.6,
+        "pct_in_category": 18.2,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "engineering",
+        "chi2": 8662.1,
+        "pct_in_category": 30.0,
+        "pct_elsewhere": 2.0
+      },
+      {
+        "word": "swe",
+        "chi2": 7304.0,
+        "pct_in_category": 6.0,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "java",
+        "chi2": 6762.5,
+        "pct_in_category": 5.5,
+        "pct_elsewhere": 0.1
+      },
+      {
+        "word": "repository",
+        "chi2": 5113.8,
+        "pct_in_category": 13.1,
+        "pct_elsewhere": 0.6
+      },
+      {
+        "word": "codebases",
+        "chi2": 5049.4,
+        "pct_in_category": 4.0,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "maintainability",
+        "chi2": 4470.0,
+        "pct_in_category": 2.9,
+        "pct_elsewhere": 0.0
+      },
+      {
+        "word": "file",
+        "chi2": 3864.0,
+        "pct_in_category": 8.4,
+        "pct_elsewhere": 0.3
+      },
+      {
+        "word": "code",
+        "chi2": 3799.0,
+        "pct_in_category": 58.6,
+        "pct_elsewhere": 13.3
+      },
+      {
+        "word": "repair",
+        "chi2": 3765.5,
+        "pct_in_category": 7.6,
+        "pct_elsewhere": 0.3
+      },
+      {
+        "word": "llm",
+        "chi2": 3680.6,
+        "pct_in_category": 54.9,
+        "pct_elsewhere": 12.2
+      },
+      {
+        "word": "coding",
+        "chi2": 3555.3,
+        "pct_in_category": 13.9,
+        "pct_elsewhere": 1.1
+      },
+      {
+        "word": "debugging",
+        "chi2": 2942.5,
+        "pct_in_category": 4.7,
+        "pct_elsewhere": 0.1
+      }
+    ],
+    "eess.IV": [
+      {
+        "word": "imaging",
+        "chi2": 13780.2,
+        "pct_in_category": 36.7,
+        "pct_elsewhere": 2.0
+      },
+      {
+        "word": "mri",
+        "chi2": 10331.6,
+        "pct_in_category": 17.8,
+        "pct_elsewhere": 0.6
+      },
+      {
+        "word": "ct",
+        "chi2": 7015.6,
+        "pct_in_category": 13.7,
+        "pct_elsewhere": 0.5
+      },
+      {
+        "word": "clinical",
+        "chi2": 6277.6,
+        "pct_in_category": 30.4,
+        "pct_elsewhere": 3.0
+      },
+      {
+        "word": "anatomical",
+        "chi2": 6047.0,
+        "pct_in_category": 12.8,
+        "pct_elsewhere": 0.6
+      },
+      {
+        "word": "tomography",
+        "chi2": 5729.6,
+        "pct_in_category": 9.4,
+        "pct_elsewhere": 0.3
+      },
+      {
+        "word": "magnetic",
+        "chi2": 5207.2,
+        "pct_in_category": 9.6,
+        "pct_elsewhere": 0.3
+      },
+      {
+        "word": "resonance",
+        "chi2": 5103.5,
+        "pct_in_category": 9.5,
+        "pct_elsewhere": 0.3
+      },
+      {
+        "word": "tissue",
+        "chi2": 5041.4,
+        "pct_in_category": 10.3,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "dice",
+        "chi2": 5040.5,
+        "pct_in_category": 9.8,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "scan",
+        "chi2": 4324.1,
+        "pct_in_category": 12.6,
+        "pct_elsewhere": 0.8
+      },
+      {
+        "word": "medical",
+        "chi2": 4257.1,
+        "pct_in_category": 26.3,
+        "pct_elsewhere": 3.2
+      },
+      {
+        "word": "diagnosis",
+        "chi2": 3571.6,
+        "pct_in_category": 17.3,
+        "pct_elsewhere": 1.7
+      },
+      {
+        "word": "tumor",
+        "chi2": 3459.6,
+        "pct_in_category": 7.8,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "lesion",
+        "chi2": 3259.2,
+        "pct_in_category": 8.0,
+        "pct_elsewhere": 0.4
+      }
+    ],
+    "stat.ML": [
+      {
+        "word": "estimator",
+        "chi2": 6410.0,
+        "pct_in_category": 10.3,
+        "pct_elsewhere": 1.2
+      },
+      {
+        "word": "bayesian",
+        "chi2": 6176.6,
+        "pct_in_category": 13.5,
+        "pct_elsewhere": 2.1
+      },
+      {
+        "word": "gaussian",
+        "chi2": 5045.6,
+        "pct_in_category": 14.8,
+        "pct_elsewhere": 3.0
+      },
+      {
+        "word": "regression",
+        "chi2": 4931.1,
+        "pct_in_category": 15.4,
+        "pct_elsewhere": 3.3
+      },
+      {
+        "word": "asymptotic",
+        "chi2": 4759.7,
+        "pct_in_category": 5.5,
+        "pct_elsewhere": 0.4
+      },
+      {
+        "word": "bound",
+        "chi2": 4686.2,
+        "pct_in_category": 16.6,
+        "pct_elsewhere": 3.9
+      },
+      {
+        "word": "statistical",
+        "chi2": 4198.3,
+        "pct_in_category": 13.5,
+        "pct_elsewhere": 2.9
+      },
+      {
+        "word": "nonparametric",
+        "chi2": 4119.6,
+        "pct_in_category": 3.6,
+        "pct_elsewhere": 0.2
+      },
+      {
+        "word": "posterior",
+        "chi2": 3801.7,
+        "pct_in_category": 7.2,
+        "pct_elsewhere": 1.0
+      },
+      {
+        "word": "kernel",
+        "chi2": 3798.2,
+        "pct_in_category": 10.7,
+        "pct_elsewhere": 2.1
+      },
+      {
+        "word": "theoretical",
+        "chi2": 3505.2,
+        "pct_in_category": 17.5,
+        "pct_elsewhere": 5.1
+      },
+      {
+        "word": "variable",
+        "chi2": 3419.8,
+        "pct_in_category": 13.9,
+        "pct_elsewhere": 3.5
+      },
+      {
+        "word": "dimensional",
+        "chi2": 3375.2,
+        "pct_in_category": 16.0,
+        "pct_elsewhere": 4.5
+      },
+      {
+        "word": "numerical",
+        "chi2": 3245.2,
+        "pct_in_category": 10.6,
+        "pct_elsewhere": 2.3
+      },
+      {
+        "word": "likelihood",
+        "chi2": 3120.1,
+        "pct_in_category": 7.9,
+        "pct_elsewhere": 1.4
+      }
+    ]
+  },
+  "similarity": {
+    "codes": [
+      "cs.AI",
+      "cs.CL",
+      "cs.CR",
+      "cs.CV",
+      "cs.CY",
+      "cs.HC",
+      "cs.IR",
+      "cs.LG",
+      "cs.NE",
+      "cs.RO",
+      "cs.SE",
+      "eess.IV",
+      "stat.ML"
+    ],
+    "matrix": [
+      [
+        1.0,
+        0.815,
+        0.691,
+        0.737,
+        0.733,
+        0.759,
+        0.718,
+        0.84,
+        0.692,
+        0.707,
+        0.77,
+        0.617,
+        0.692
+      ],
+      [
+        0.815,
+        1.0,
+        0.624,
+        0.742,
+        0.599,
+        0.639,
+        0.724,
+        0.756,
+        0.572,
+        0.569,
+        0.696,
+        0.6,
+        0.592
+      ],
+      [
+        0.691,
+        0.624,
+        1.0,
+        0.594,
+        0.579,
+        0.569,
+        0.553,
+        0.656,
+        0.488,
+        0.509,
+        0.644,
+        0.508,
+        0.502
+      ],
+      [
+        0.737,
+        0.742,
+        0.594,
+        1.0,
+        0.497,
+        0.556,
+        0.636,
+        0.803,
+        0.615,
+        0.686,
+        0.581,
+        0.837,
+        0.645
+      ],
+      [
+        0.733,
+        0.599,
+        0.579,
+        0.497,
+        1.0,
+        0.843,
+        0.535,
+        0.566,
+        0.456,
+        0.465,
+        0.632,
+        0.462,
+        0.455
+      ],
+      [
+        0.759,
+        0.639,
+        0.569,
+        0.556,
+        0.843,
+        1.0,
+        0.615,
+        0.577,
+        0.466,
+        0.531,
+        0.652,
+        0.486,
+        0.449
+      ],
+      [
+        0.718,
+        0.724,
+        0.553,
+        0.636,
+        0.535,
+        0.615,
+        1.0,
+        0.664,
+        0.505,
+        0.509,
+        0.592,
+        0.518,
+        0.521
+      ],
+      [
+        0.84,
+        0.756,
+        0.656,
+        0.803,
+        0.566,
+        0.577,
+        0.664,
+        1.0,
+        0.783,
+        0.667,
+        0.615,
+        0.711,
+        0.897
+      ],
+      [
+        0.692,
+        0.572,
+        0.488,
+        0.615,
+        0.456,
+        0.466,
+        0.505,
+        0.783,
+        1.0,
+        0.515,
+        0.494,
+        0.544,
+        0.712
+      ],
+      [
+        0.707,
+        0.569,
+        0.509,
+        0.686,
+        0.465,
+        0.531,
+        0.509,
+        0.667,
+        0.515,
+        1.0,
+        0.525,
+        0.535,
+        0.516
+      ],
+      [
+        0.77,
+        0.696,
+        0.644,
+        0.581,
+        0.632,
+        0.652,
+        0.592,
+        0.615,
+        0.494,
+        0.525,
+        1.0,
+        0.499,
+        0.465
+      ],
+      [
+        0.617,
+        0.6,
+        0.508,
+        0.837,
+        0.462,
+        0.486,
+        0.518,
+        0.711,
+        0.544,
+        0.535,
+        0.499,
+        1.0,
+        0.581
+      ],
+      [
+        0.692,
+        0.592,
+        0.502,
+        0.645,
+        0.455,
+        0.449,
+        0.521,
+        0.897,
+        0.712,
+        0.516,
+        0.465,
+        0.581,
+        1.0
+      ]
+    ]
+  },
+  "length": {
+    "eta_squared": 0.0265,
+    "by_category": [
+      {
+        "category_code": "cs.AI",
+        "mean": 169.0,
+        "median": 170.0,
+        "std": 49.9,
+        "count": 28688
+      },
+      {
+        "category_code": "cs.CL",
+        "mean": 158.1,
+        "median": 156.0,
+        "std": 44.4,
+        "count": 37244
+      },
+      {
+        "category_code": "cs.CR",
+        "mean": 185.5,
+        "median": 186.0,
+        "std": 44.3,
+        "count": 4375
+      },
+      {
+        "category_code": "cs.CV",
+        "mean": 177.2,
+        "median": 177.0,
+        "std": 41.1,
+        "count": 71082
+      },
+      {
+        "category_code": "cs.CY",
+        "mean": 181.3,
+        "median": 182.0,
+        "std": 49.0,
+        "count": 2293
+      },
+      {
+        "category_code": "cs.HC",
+        "mean": 171.7,
+        "median": 164.0,
+        "std": 43.7,
+        "count": 2184
+      },
+      {
+        "category_code": "cs.IR",
+        "mean": 178.3,
+        "median": 179.0,
+        "std": 45.9,
+        "count": 2712
+      },
+      {
+        "category_code": "cs.LG",
+        "mean": 172.1,
+        "median": 171.0,
+        "std": 45.3,
+        "count": 80400
+      },
+      {
+        "category_code": "cs.NE",
+        "mean": 167.0,
+        "median": 169.0,
+        "std": 52.0,
+        "count": 6709
+      },
+      {
+        "category_code": "cs.RO",
+        "mean": 177.6,
+        "median": 178.0,
+        "std": 38.8,
+        "count": 5254
+      },
+      {
+        "category_code": "cs.SE",
+        "mean": 187.7,
+        "median": 189.0,
+        "std": 46.3,
+        "count": 2575
+      },
+      {
+        "category_code": "eess.IV",
+        "mean": 185.1,
+        "median": 186.0,
+        "std": 43.9,
+        "count": 2771
+      },
+      {
+        "category_code": "stat.ML",
+        "mean": 158.5,
+        "median": 156.0,
+        "std": 48.3,
+        "count": 13882
+      }
+    ]
+  }
+}

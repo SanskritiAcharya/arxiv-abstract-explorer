@@ -1,0 +1,8 @@
+{
+  "raw_rows": 287421,
+  "rows_after_cleaning": 260169,
+  "categories_total": 147,
+  "categories_kept": 13,
+  "min_papers_per_category": 2000,
+  "seconds": 25.1
+}
