@@ -171,8 +171,10 @@ with tab_classify:
     if "abstract" not in st.session_state:
         st.session_state.abstract, st.session_state.truth = "", None
 
+    # Editing the text means it is no longer the loaded example, so drop its true label.
     text = st.text_area("Abstract", key="abstract", height=200, label_visibility="collapsed",
-                        placeholder="Paste a paper abstract…")
+                        placeholder="Paste a paper abstract…",
+                        on_change=lambda: st.session_state.update(truth=None))
     if st.session_state.truth:
         title, code = st.session_state.truth
         st.html(f'<div class="paper">{html.escape(title)}</div>'
