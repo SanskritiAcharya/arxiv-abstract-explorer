@@ -71,7 +71,7 @@ TOWARDS, AWAY = "22, 163, 74", "220, 38, 38"
 
 st.html("""
 <style>
-  .block-container { padding-top: 3rem; max-width: 1100px; }
+  .block-container { padding-top: 4.5rem; max-width: 1100px; }
   [data-testid="stSidebar"], [data-testid="stSidebarCollapsedControl"],
   [data-testid="stDecoration"], footer { display: none; }
   h1, h2, h3, h4 { letter-spacing: -0.01em; }
