@@ -17,10 +17,20 @@ import streamlit as st
 st.set_page_config(page_title="arXiv Abstract Explorer", layout="wide")
 
 
+def api_healthy(url):
+    try:
+        return requests.get(f"{url}/health", timeout=2).ok
+    except requests.RequestException:
+        return False
+
+
 @st.cache_resource
 def start_embedded_api():
     """On hosts that run only Streamlit (e.g. Streamlit Community Cloud), start the
     FastAPI backend in a background thread inside the same container."""
+    url = "http://127.0.0.1:8000"
+    if api_healthy(url):  # already running, e.g. left over from before a hot reload
+        return url
     import uvicorn
 
     sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
@@ -28,22 +38,32 @@ def start_embedded_api():
 
     server = uvicorn.Server(uvicorn.Config(app, host="127.0.0.1", port=8000, log_level="warning"))
     threading.Thread(target=server.run, daemon=True).start()
-    for _ in range(60):
-        if server.started:
-            break
+    for _ in range(240):
+        if api_healthy(url):
+            return url
         time.sleep(0.5)
-    return "http://127.0.0.1:8000"
+    raise RuntimeError("Embedded API did not start")  # not cached, so the next run retries
 
 
 # Set API_URL to use a separately running backend; otherwise one is started here.
-API = os.environ.get("API_URL") or start_embedded_api()
+try:
+    API = os.environ.get("API_URL") or start_embedded_api()
+except RuntimeError:
+    st.error("The server is still starting. Please refresh in a few seconds.")
+    st.stop()
 
 
 @st.cache_data(ttl=600)
 def get(path):
-    r = requests.get(f"{API}{path}", timeout=30)
-    r.raise_for_status()
-    return r.json()
+    for attempt in range(5):
+        try:
+            r = requests.get(f"{API}{path}", timeout=30)
+            r.raise_for_status()
+            return r.json()
+        except requests.ConnectionError:
+            if attempt == 4:
+                raise
+            time.sleep(2)
 
 
 BAR, SOFT = "#1F2937", "#CBD5E1"
@@ -51,7 +71,7 @@ TOWARDS, AWAY = "22, 163, 74", "220, 38, 38"
 
 st.html("""
 <style>
-  .block-container { padding-top: 1.6rem; max-width: 1100px; }
+  .block-container { padding-top: 3rem; max-width: 1100px; }
   [data-testid="stSidebar"], [data-testid="stSidebarCollapsedControl"],
   [data-testid="stDecoration"], footer { display: none; }
   h1, h2, h3, h4 { letter-spacing: -0.01em; }
@@ -121,7 +141,7 @@ def highlight_html(segments):
 try:
     names = get("/categories")
 except requests.RequestException:
-    st.error(f"Can't reach the API at {API}. Start it with `uvicorn api.main:app` and refresh.")
+    st.error("The server is still starting. Please refresh in a few seconds.")
     st.stop()
 
 label = lambda code: f"{code} · {names.get(code, code)}"
